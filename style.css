@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(19, 19, 19);
+}
+
+#cor {
+    color: #ccc;
+}
+
+#modalzete{
+    color: #ccc;
+    
+
+}
+
+header img {
+    height: 70px;
+    width: 70px;
+}
+
+
+#section-banners img {
+    height: 500px;
+}
+
+
+#section-vendidos {
+    text-align: center;
+}
+
+#section-vendidos h2 {
+    color: #ccc;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#section-vendidos img {
+    height: 350px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#section-vendidos .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+footer {
+    position: relative;
+    bottom: 0;
+}
+
+footer p {
+    color: #ccc;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+#voltar-topo {
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+}
+
+
+#sec-login {
+    margin: 0 auto;
+    width: 350px;
+    border-radius: 20px;
+    margin-top: 100px;
+    background-color: #ccc;
+}
+
+#sec-login h1 {
+    text-align: center;
+}
+
+#sec-login input {
+    width: 100%;
+}
+
+
+#sec-cadastro {
+    padding: 5px;
+    text-align: center;
+}
+
+#cor2 {
+    background-color: rgb(132, 221, 248);
+}
+
+#form-cadastrar {
+    margin: 0 auto;
+    width: 500px;
+    border-radius: 20px;
+    padding: 50px;
+    display: none;
+    background-color: #ccc;
+}
